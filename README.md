@@ -20,7 +20,7 @@ Hi, I’m Mohammed, an IT student in my final university stage.<br>I enjoy build
 
 
 ## 🌐 Socials:
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+967779941600)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammed.design20@gmail.com) 
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+967779941600)  [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](mailto:muhammed.design20@gmail.com) 
 <div align="left">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="gmail logo"  /> 
   <a href="https://www.linkedin.com/in/muhammed-design-916841327/" target="_blank">
