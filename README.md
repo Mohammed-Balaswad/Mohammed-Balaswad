@@ -22,6 +22,10 @@ Hi, I’m Mohammed, an IT student in my final university stage.<br>I enjoy build
 ## 🌐 Socials:
 [![linkedin](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge)](https://www.linkedin.com/in/muhammed-design-916841327/) [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+967779941600) [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=muhammed.design20@gmail.com) 
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Mohammed-Balaswad&icon=0&color=0)](https://visitcount.itsvg.in)
 
