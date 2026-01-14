@@ -14,14 +14,11 @@ Hi, I’m Mohammed, an IT student in my final university stage.<br>I enjoy build
 
 ## 🌐 Socials:
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammed-design-916841327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-design-916841327/" height="30" width="40" /></a>
-</p> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammed.design20@gmail.com) 
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammed-design-916841327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammed-design-916841327/" height="30" width="40" /></a><br>
+  ![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:muhammed.design20@gmail.com)
+</p>  
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mohammed-Balaswad&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mohammed-Balaswad&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Mohammed-Balaswad&icon=0&color=0)](https://visitcount.itsvg.in)
